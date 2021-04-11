@@ -1,1 +1,1 @@
-"# GameAppleShortcut" 
+# GameAppleShortcut 
